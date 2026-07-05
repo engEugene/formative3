@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1IUh3aNMfI-z4Bi2uT_ULdzEXaDECZK1X
 """
 
-!pip install scipy matplotlib numpy
+# !pip install scipy matplotlib numpy
 
 """
 Part 4: Gradient Descent in Code
